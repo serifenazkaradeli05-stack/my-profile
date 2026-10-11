@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    }
+    
+    body{
+        margin: 0;
+        font-family: Arial, sans-serif;
+        line-height: 1.5;
+        color: #9ddaf5;
+        background-color: #050505
+    }
+    header{
+        padding: 20px;
+        text-align: center;
+        color: rgb(236, 149, 208);
+        background-color: #c9da8d
+    }
